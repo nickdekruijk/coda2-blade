@@ -59,21 +59,27 @@
 						<string>declare</string>
 						<string>default</string>
 						<string>do</string>
+						<string>each</string>
 						<string>elseif</string>
 						<string>else</string>
+						<string>empty</string>
 						<string>enddeclare</string>
 						<string>endfor</string>
 						<string>endforeach</string>
+						<string>endforelse</string>
 						<string>endif</string>
+						<string>endphp</string>
 						<string>endswitch</string>
 						<string>endwhile</string>
 						<string>foreach</string>
+						<string>forelse</string>
 						<string>for</string>
 						<string>goto</string>
 						<string>if</string>
 						<string>include_once</string>
 						<string>include</string>
 						<string>or</string>
+						<string>php</string>
 						<string>require_once</string>
 						<string>require</string>
 						<string>return</string>
@@ -3771,21 +3777,27 @@
 					<string>declare</string>
 					<string>default</string>
 					<string>do</string>
+					<string>each</string>
 					<string>elseif</string>
 					<string>else</string>
+					<string>empty</string>
 					<string>enddeclare</string>
 					<string>endfor</string>
 					<string>endforeach</string>
+					<string>endforelse</string>
 					<string>endif</string>
+					<string>endphp</string>
 					<string>endswitch</string>
 					<string>endwhile</string>
 					<string>foreach</string>
+					<string>forelse</string>
 					<string>for</string>
 					<string>goto</string>
 					<string>if</string>
 					<string>include_once</string>
 					<string>include</string>
 					<string>or</string>
+					<string>php</string>
 					<string>require_once</string>
 					<string>require</string>
 					<string>return</string>
