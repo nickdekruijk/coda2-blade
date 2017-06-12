@@ -11,3 +11,7 @@ Blade
 For Laravel's [Blade](http://laravel.com/docs/views/templating) templates. Based on original PHP-HTML mode.
 
 ![Screenshot](http://i.imgur.com/GYQF6eM.png)
+
+Install
+-------
+Just copy blade.mode to ~/Library/Application Support/Coda 2/Modes or doubleclick it
