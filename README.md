@@ -3,7 +3,8 @@ Coda 2 modes
 
 Blade syntax mode for Coda 2.
 
-**No longer maintained.**
+Forked from https://github.com/postcasio/coda2-modes
+Merged 2 changes from https://github.com/maksuco/coda2-modes and https://github.com/ryanshowers/coda2-modes.git
 
 Blade
 -----
