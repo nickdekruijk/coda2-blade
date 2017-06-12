@@ -1,5 +1,5 @@
-Coda 2 modes
-============
+Coda 2 Blade mode
+=================
 
 Blade syntax mode for Coda 2.
 
